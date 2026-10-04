@@ -1,2 +1,1 @@
-# ROAD-ACCIDENT-ANALYZER
-A comprehensive data analysis project to track, visualize, and analyze road accident trends, casualties, and key factors to improve road safety insights.
+The Road Accident Analyzer is a data-driven project designed to analyze and visualize road accident statistics. This project provides key insights into accident severity, casualties by vehicle type, road surface conditions, and location-based trends. By tracking these metrics, the project aims to identify high-risk patterns, understand the primary causes of accidents, and help in making informed decisions for better road safety and awareness
